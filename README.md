@@ -2,7 +2,7 @@
 
 # Hey, I'm Joshua 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6D5A&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Specialist;I+build+n8n+workflows+that+run+real+businesses;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Claude+API;Self-hosting+everything+on+Barad-d%C3%BBr+%F0%9F%8C%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6D5A&center=true&vCenter=true&width=640&lines=AI+%26+Automation+Specialist;I+build+n8n+workflows+that+run+real+businesses;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Claude+API;Self-hosting+everything+on+my+homelab)](https://git.io/typing-svg)
 
 **AI & Automation Specialist @ Media Prima Audio** · Kuala Lumpur, Malaysia 🇲🇾
 
@@ -26,13 +26,11 @@ I automate the boring parts of media and business — radio dedications voiced b
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| 🍱 **SnapCal / Kenyang** | Snap a photo of your food, get calories back via AI vision | React · Claude Vision · Vercel | [repo](#) · [live](#) |
-| 🎃 **Pumpkin Nom Nom** | Personal calorie tracker built for someone special | React · Supabase | [repo](#) · [live](#) |
-| 📻 **AI Radio Dedication Pipeline** | Listener request → AI moderation → DJ script → TTS voice → logged to Drive/Sheets | n8n · Claude · TTS API | [case study](#) |
-| 📸 **Instagram Auto-DM & Reply** | Keyword-triggered comment replies + DM funnels, controlled from a Google Sheet | n8n · Instagram Graph API · Sheets | [template](#) |
-| 🌋 **Barad-dûr Homelab** | Self-hosted automation server with zero-trust public access | Ubuntu · Docker · Cloudflare | [setup notes](#) |
-
-> 🛒 n8n templates available on **[Gumroad](#)**
+| 🎙️ **AI Voice Assistant** | Talk to it: speech-to-text → Claude → ElevenLabs voice, with multi-turn memory | React · TypeScript · Claude API · ElevenLabs | [live](https://jjs-voice-assistant.vercel.app) · [repo](https://github.com/Gelegrimbor/jjs-voice-assistant) |
+| ☕ **Cafe Finder** | GPS-based cafe discovery with smart filtering of non-cafe results | JavaScript · Google Maps & Places API | [live](https://jjs-cafe-finder.vercel.app) · [repo](https://github.com/Gelegrimbor/jjs-cafe-finder) |
+| 🏢 **Studio Booking Automation** | 9 production workflows: guest clearance, email routing, reminders, error monitoring | n8n · SendGrid · Supabase · Sheets | [case study](https://gelegrimbor.com/#projects) |
+| 📸 **Instagram Auto-DM & Reply** | Keyword-triggered comment replies + two-stage DM funnels, controlled from a Google Sheet | n8n · Meta Graph API · Sheets | [case study](https://gelegrimbor.com/#projects) |
+| 🍱 **SnapCal / Kenyang** | Snap a photo of your food, get calories back via AI vision | React · Claude Vision · Vercel | 🚧 in progress |
 
 ---
 
@@ -94,10 +92,8 @@ I automate the boring parts of media and business — radio dedications voiced b
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshua-james-scott-portfolio.vercel.app)
-[![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](#)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-james-scott-11a616151)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gelegrimbor.com)
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gelegrimbor&color=FF6D5A&style=flat-square&label=Profile+Views)
